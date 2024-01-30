@@ -39,6 +39,11 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
 
    Você também pode ver as imagens do testes logo abaixo.
 
+## Imagens dos Testes
+
+![Imagem do Programa](imagens/6.png)
+![Imagem do Programa](imagens/7.png)
+
 ## Imagens do Programa
 
 ![Imagem do Programa](imagens/1.png)
@@ -46,8 +51,6 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
 ![Imagem do Programa](imagens/3.png)
 ![Imagem do Programa](imagens/4.png)
 ![Imagem do Programa](imagens/5.png)
-![Imagem do Programa](imagens/6.png)
-![Imagem do Programa](imagens/7.png)
 
 Estas imagens representam a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o LaraLeads.
 
