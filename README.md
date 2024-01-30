@@ -20,16 +20,16 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
     php artisan migrate
     ```
 
-4. **Inicie o Servidor PHP:**
+4. **Atualize as Dependências com Composer:**
+    ```bash
+    composer update
+    ```
+
+5. **Inicie o Servidor PHP:**
     ```bash
     php artisan serve
     ```
    O aplicativo estará disponível em [http://localhost:8000](http://localhost:8000).
-
-5. **Atualize as Dependências com Composer:**
-    ```bash
-    composer update
-    ```
 
 6. **Execute os Testes:**
     ```bash
