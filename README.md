@@ -31,12 +31,13 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
     composer update
     ```
 
-6. **Execute os Testes PHPUnit:**
+6. **Execute os Testes:**
     ```bash
-    ./vendor/bin/phpunit
+    php artisan test .\tests\Feature\LeadIntegrationTest.php
+    php artisan test .\tests\Unit\LeadControllerTest.php   
     ```
 
-   Certifique-se de que todos os testes passem com sucesso.
+   Você também pode ver as imagens do testes logo abaixo.
 
 ## Imagens do Programa
 
@@ -45,6 +46,8 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
 ![Imagem do Programa](imagens/3.png)
 ![Imagem do Programa](imagens/4.png)
 ![Imagem do Programa](imagens/5.png)
+![Imagem do Programa](imagens/6.png)
+![Imagem do Programa](imagens/7.png)
 
 Estas imagens representam a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o LaraLeads.
 
