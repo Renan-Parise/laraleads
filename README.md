@@ -45,7 +45,3 @@ Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo fe
 ![Imagem do Programa](imagens/5.png)
 
 Esta imagem representa a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o Laraleads.
-
----
-
-Este README fornece instruções básicas para começar. Consulte a documentação oficial do Laravel para obter informações mais detalhadas e personalizações específicas.
