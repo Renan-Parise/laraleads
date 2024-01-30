@@ -1,6 +1,6 @@
 # LaraLeads
 
-Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo feito com PHP (Laravel), MySQL e Bootstrap. Foi desenvolvido para o teste prático de uma vaga Back-End.
+Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo feito com PHP (Laravel), MySQL e Bootstrap, usando a arquitetura MVC. Foi desenvolvido para o teste prático de uma vaga Back-End.
 
 O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Leads. Também conta com testes unitários e de integração.
 
@@ -47,3 +47,29 @@ O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Lea
 ![Imagem do Programa](imagens/5.png)
 
 Estas imagens representam a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o LaraLeads.
+
+7. **Requisitos do teste prático:**
+    Front-End:
+    ✅ Tela de login
+    ✅ Crie uma interface de usuário responsiva para o sistema usando HTML, Bootstrap, CSS e JavaScript (jquery).
+    ✅ Implemente a página de listagem dos leads com a capacidade de adicionar, editar e excluir registros.
+
+
+    Back-End:
+    ✅ Utilizar as ferramentas do Laravel de autenticação
+    ✅ Desenvolva utilizando os padrões do framework Laravel e Implemente APIs para: Criar, ler, atualizar e excluir registros.
+
+
+    Persistência de Dados:
+    ✅ Utilize um banco de dados (MySQL) para armazenar informações.
+    ✅ Modele as tabelas ou documentos necessários para representar essas entidades.
+
+
+    Segurança:
+    ✅ Implemente autenticação e autorização básicas para proteger as operações sensíveis do sistema.
+    ✅ Certifique-se de que senhas sejam armazenadas de forma segura.
+
+
+    Testes:
+    ✅ Escreva testes unitários para as principais funcionalidades do sistema.
+    ✅ Realize testes de integração para garantir que os componentes interajam corretamente.
