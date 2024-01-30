@@ -36,7 +36,7 @@ Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo fe
 
    Certifique-se de que todos os testes passem com sucesso.
 
-## Imagem do Programa
+## Imagens do Programa
 
 ![Imagem do Programa](imagens/1.png)
 ![Imagem do Programa](imagens/2.png)
@@ -44,4 +44,4 @@ Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo fe
 ![Imagem do Programa](imagens/4.png)
 ![Imagem do Programa](imagens/5.png)
 
-Esta imagem representa a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o Laraleads.
+Estas imagens representam a interface do programa. Para obter uma experiência completa, siga as etapas acima e explore o LaraLeads.
