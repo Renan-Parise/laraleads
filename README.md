@@ -1,6 +1,8 @@
 # LaraLeads
 
-Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo feito com PHP (Laravel), MySQL e Bootstrap. Possui funções de autenticação e a possibilidade de gerenciar Leads. Também conta com testes unitários e de integração.
+Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo feito com PHP (Laravel), MySQL e Bootstrap. Foi desenvolvido para o teste prático de uma vaga Back-End.
+
+O LaraLeads ossui funções de autenticação e a possibilidade de gerenciar Leads. Também conta com testes unitários e de integração.
 
 ## Configuração e Execução
 
