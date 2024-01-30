@@ -18,7 +18,7 @@ Este repositório contém o código-fonte do projeto LaraLeads, um aplicativo fe
     php artisan migrate
     ```
 
-4. **Inicie o Servidor PHP Embutido:**
+4. **Inicie o Servidor PHP:**
     ```bash
     php artisan serve
     ```
